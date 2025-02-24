@@ -12,16 +12,9 @@ To install this project, follow these steps:
 
 1. Clone the repository:
     ```bash
-  
+  https://github.com/Aubry77/module-6-lesson-1-api.py.git
     ```
-2. Navigate to the project directory:
-    ```bash
-   cd repo-name
-    ```
-3   Install the required dependencies:
-    ```bash
-  
-    ```
+
 
 ### Example code snippet
 result = my_function()
