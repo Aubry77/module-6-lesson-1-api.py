@@ -7,26 +7,20 @@ such as Pokémon, using APIs.rpose of the project].The main objective of this pr
 API integration, data manipulation, and Python programming. It serves as an educational tool to deepen the understanding of
 RESTful APIs, JSON data handling, and efficient coding practices.
 
-
-## Features
-- Feature 1
-- Feature 2
-- Feature 3
-
 ## Installation
 To install this project, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/username/repo-name.git
+  
     ```
 2. Navigate to the project directory:
     ```bash
-    cd repo-name
+   cd repo-name
     ```
-3. Install the required dependencies:
+3   Install the required dependencies:
     ```bash
-    pip install -r requirements.txt
+  
     ```
 
 ### Example code snippet
